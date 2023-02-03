@@ -1,4 +1,5 @@
 import garbage
+import numpy as np
 
 def test_foo():
     data = garbage.foo()
